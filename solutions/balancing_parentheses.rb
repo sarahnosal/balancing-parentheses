@@ -1,4 +1,4 @@
-def balancing_parentheses(string)
+  def balancing_parentheses(string)
   missing = 0
   openings = 0
 
